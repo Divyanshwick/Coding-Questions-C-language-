@@ -1,2 +1,3 @@
 # Coding-Questions-C-language-
-Common Coding Questions in C
+Just a collection to save my code
+
